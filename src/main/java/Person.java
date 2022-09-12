@@ -3,6 +3,8 @@ public class Person {
 
     public Person(double height) {
         this.height = height;
+    }
+    public Person(){
 
     }
 
